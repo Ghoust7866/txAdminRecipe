@@ -120,7 +120,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-multicharacter
     ref: main
-    src: https://github.com/qbcore-framework/qb-multicharacter
+    src: https://github.com/Ghoust7866/qb-multicharacter
 
   - action: waste_time # prevent github throttling
     seconds: 10
@@ -301,7 +301,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-spawn
     ref: main
-    src: https://github.com/qbcore-framework/qb-spawn
+    src: https://github.com/Ghoust7866/qb-spawn
 
   - action: download_github
     dest: ./resources/[qb]/qb-skillbar
