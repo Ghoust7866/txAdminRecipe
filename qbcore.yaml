@@ -173,7 +173,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-hud
     ref: main
-    src: https://github.com/qbcore-framework/qb-hud
+    src: https://github.com/Ghoust7866/qb-hud
 
   - action: download_github
     dest: ./resources/[qb]/qb-bossmenu
